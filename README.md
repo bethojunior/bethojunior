@@ -52,6 +52,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethojunior&show_icons=true&locale=en&layout=compact&include_all_commits=true" alt="bethojunior" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethojunior&show_icons=true&include_all_commits=true&locale=en" alt="bethojunior" /></p>
+<!-- p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethojunior&show_icons=true&include_all_commits=true&locale=en" alt="bethojunior" /></p -->
+
+  
+<div align="center">
+  <a href="https://github.com/PetrusBorges">
+  <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=bethojunior&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethojunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 
