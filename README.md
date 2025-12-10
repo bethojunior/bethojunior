@@ -47,6 +47,6 @@ A contagem de visitantes desta página nesta seção começou em 10 de dez de 20
 
 ### 🐍 Minhas Contribuições (Snake Game)
 
-<div align="center">
+<!--div align="center">
   <img src="https://github.com/bethojunior/bethojunior/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</div -->
