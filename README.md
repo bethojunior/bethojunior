@@ -21,7 +21,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-
+  
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css&theme=dark" />
   <br/>
   
@@ -34,13 +34,8 @@
 
 ---
 
+### 🐍 Minhas Contribuições (Snake Game)
 
-### 📊 Estatísticas
-
-### 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethojunior&layout=compact&langs_count=7&theme=dracula)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bethojunior&show_icons=true&theme=dracula)
-
-![Streak Stats](https://streak-stats.demolab.com?user=bethojunior&theme=dracula)
+<div align="center">
+  <img src="https://github.com/bethojunior/bethojunior/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
