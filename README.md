@@ -34,6 +34,17 @@
 
 ---
 
+<div align="center">
+
+### Visualizações de Perfil  
+A contagem de visitantes desta página nesta seção começou em 10 de dez de 2025.
+
+![:GabrielCordeiroBarrosoTeles](https://count.getloli.com/get/@:GabrielCordeiroBarrosoTeles)
+
+</div>
+
+---
+
 ### 🐍 Minhas Contribuições (Snake Game)
 
 <div align="center">
