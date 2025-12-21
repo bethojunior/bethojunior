@@ -39,13 +39,12 @@
 ### Visualizações de Perfil  
 A contagem de visitantes desta página nesta seção começou em 10 de dez de 2025.
 
-![:GabrielCordeiroBarrosoTeles](https://count.getloli.com/get/@:bethojunior)
+![:Bethojunior](https://count.getloli.com/get/@:bethojunior)
 
 </div>
 
----
 
-### 🐍 Minhas Contribuições (Snake Game)
+<!--### 🐍 Minhas Contribuições (Snake Game)
 
 <!--div align="center">
   <img src="https://github.com/bethojunior/bethojunior/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
