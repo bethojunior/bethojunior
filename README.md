@@ -4,8 +4,9 @@
 </div>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por construir aplicações web escaláveis e performáticas. 
-  Tenho experiência sólida tanto no ecossistema <b>JavaScript/Node</b> quanto no <b>PHP</b>.
+Desenvolvedor Back-end Sênior e Tech Lead, especializado na construção de sistemas robustos, escaláveis e orientados a eventos.
+
+Tenho experiência no desenvolvimento de APIs de alta performance, microsserviços, arquiteturas distribuídas e aplicações de missão crítica, sempre focando em qualidade, segurança, observabilidade e escalabilidade.
 </p>
 
 <div align="center">
