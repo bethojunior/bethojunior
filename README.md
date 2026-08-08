@@ -1,90 +1,114 @@
-<div align="center">   <h1>Betho Junior</h1>   <h3>Senior Backend Developer • Tech Lead • Software Architecture</h3>
+<hr>
 
+<div align="center">
+  <h2>👨‍💻 Sobre mim</h2>
+</div>
+
+<p align="center">
+  Sou <strong>Desenvolvedor Back-end Sênior e Tech Lead</strong>, especializado no desenvolvimento de
+  sistemas robustos, escaláveis e de alta disponibilidade.
+</p>
+
+<p align="center">
+  Minha experiência é focada na construção e evolução de <strong>APIs de alta performance,
+  microsserviços, arquiteturas distribuídas e sistemas orientados a eventos</strong>,
+  atuando desde decisões arquiteturais até implementação, observabilidade e operação em produção.
+</p>
+
+<br>
+
+<div align="center">
+  <h3>⚡ Principais Pilares</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🏗️ Arquitetura</strong></td>
+    <td align="center"><strong>⚡ Performance</strong></td>
+    <td align="center"><strong>📨 Event-Driven</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Microsserviços<br>Modularização<br>Sistemas Distribuídos</td>
+    <td align="center">Cache<br>Processamento Assíncrono<br>Otimização</td>
+    <td align="center">Mensageria<br>Retry<br>DLQ</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔐 Segurança</strong></td>
+    <td align="center"><strong>📊 Observabilidade</strong></td>
+    <td align="center"><strong>🚀 DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Autenticação<br>Autorização<br>Proteção de APIs</td>
+    <td align="center">Logs<br>Métricas<br>Tracing</td>
+    <td align="center">Docker<br>CI/CD<br>Infraestrutura</td>
+  </tr>
+</table>
+
+<br>
+
+<hr>
+
+<div align="center">
+  <h2>🛠️ Stack</h2>
+
+  <h3>Backend</h3>
   <p>
-    Construindo sistemas escaláveis, distribuídos e orientados a eventos.
+    <code>Node.js</code> •
+    <code>TypeScript</code> •
+    <code>NestJS</code> •
+    <code>PHP</code> •
+    <code>Laravel</code> •
+    <code>Go</code>
+  </p>
+
+  <h3>Databases & Cache</h3>
+  <p>
+    <code>PostgreSQL</code> •
+    <code>MySQL</code> •
+    <code>MongoDB</code> •
+    <code>Redis</code>
+  </p>
+
+  <h3>Messaging & Distributed Systems</h3>
+  <p>
+    <code>RabbitMQ</code> •
+    <code>Kafka</code> •
+    <code>BullMQ</code>
+  </p>
+
+  <h3>Infrastructure & Observability</h3>
+  <p>
+    <code>Docker</code> •
+    <code>Nginx</code> •
+    <code>Prometheus</code> •
+    <code>Grafana</code> •
+    <code>OpenTelemetry</code>
   </p>
 </div>
 
----
+<br>
 
-### 👨‍💻 Sobre mim
-
-Sou **Desenvolvedor Back-end Sênior e Tech Lead**, especializado no desenvolvimento de sistemas robustos, escaláveis e de alta disponibilidade.
-
-Minha experiência é focada na construção e evolução de **APIs de alta performance, microsserviços, arquiteturas distribuídas e sistemas orientados a eventos**, atuando desde decisões arquiteturais até implementação, observabilidade e operação em produção.
-
-Tenho como principais pilares:
-
-* 🏗️ **Arquitetura de Software** — microsserviços, modularização e sistemas distribuídos
-* ⚡ **Performance & Escalabilidade** — cache, processamento assíncrono e otimização
-* 📨 **Event-Driven Architecture** — mensageria, filas, eventos, retry e DLQ
-* 🔐 **Segurança** — autenticação, autorização e proteção de APIs
-* 📊 **Observabilidade** — logs estruturados, métricas, tracing e monitoramento
-* 🧪 **Qualidade** — código limpo, testes, boas práticas e manutenibilidade
-* 🚀 **DevOps** — Docker, CI/CD, infraestrutura e ambientes de produção
-
-### 🛠️ Stack
-
-**Backend**
-
-`Node.js` • `TypeScript` • `NestJS` • `PHP` • `Laravel` • `Go`
-
-**Databases & Cache**
-
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
-
-**Messaging & Distributed Systems**
-
-`RabbitMQ` • `Kafka` • `BullMQ`
-
-**Infrastructure & Observability**
-
-`Docker` • `Nginx` • `Prometheus` • `Grafana` • `OpenTelemetry`
-
----
+<hr>
 
 <div align="center">
-  <strong>Backend Engineering • Distributed Systems • Event-Driven Architecture</strong>
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+
+  <p>
+    Tecnologias, ferramentas e plataformas que fazem parte do meu dia a dia no desenvolvimento
+    e manutenção de sistemas.
+  </p>
 </div>
+
+<br>
+
+<hr>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betho-junior-5a37451b7/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bethojr)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+  <h2>👁️ Visualizações de Perfil</h2>
 
+  <p>
+    A contagem de visitantes deste perfil começou em <strong>10 de dezembro de 2025</strong>.
+  </p>
 </div>
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css&theme=dark" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,nest,php,laravel&theme=dark" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,docker,git&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-### Visualizações de Perfil  
-A contagem de visitantes desta página nesta seção começou em 10 de dez de 2025.
-
-![:Bethojunior](https://count.getloli.com/get/@:bethojunior)
-
-</div>
-
-
-<!--### 🐍 Minhas Contribuições (Snake Game)
-
-<!--div align="center">
-  <img src="https://github.com/bethojunior/bethojunior/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div -->
+<hr>
