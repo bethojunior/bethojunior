@@ -77,7 +77,7 @@
       <strong>📊 Observability</strong>
     </td>
     <td align="center">
-      <strong>🚀 DevOps & Infrastructure</strong>
+      <strong>☁️ Infrastructure & Reliability</strong>
     </td>
   </tr>
 
@@ -93,9 +93,9 @@
       Distributed Tracing
     </td>
     <td align="center">
-      Docker<br>
-      CI/CD<br>
-      Infrastructure
+      Containers & Docker<br>
+      CI/CD Pipelines<br>
+      Production Reliability
     </td>
   </tr>
 </table>
