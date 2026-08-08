@@ -1,46 +1,102 @@
+<div align="center">
+
+  <h1>Betho Junior</h1>
+
+  <h3>Senior Backend Developer • Tech Lead</h3>
+
+  <p>
+    Distributed Systems • Event-Driven Architecture • Software Architecture
+  </p>
+
+</div>
+
 <hr>
 
 <div align="center">
-  <h2>👨‍💻 Sobre mim</h2>
+  <h2>Sobre mim</h2>
 </div>
 
 <p align="center">
-  Sou <strong>Desenvolvedor Back-end Sênior e Tech Lead</strong>, especializado no desenvolvimento de
-  sistemas robustos, escaláveis e de alta disponibilidade.
+  <strong>Desenvolvedor Back-end Sênior e Tech Lead</strong> com experiência na construção
+  e evolução de sistemas distribuídos, escaláveis e de alta disponibilidade.
 </p>
 
 <p align="center">
-  Minha experiência é focada na construção e evolução de <strong>APIs de alta performance,
-  microsserviços, arquiteturas distribuídas e sistemas orientados a eventos</strong>,
-  atuando desde decisões arquiteturais até implementação, observabilidade e operação em produção.
+  Atuo no desenvolvimento de <strong>APIs de alta performance, microsserviços e arquiteturas
+  orientadas a eventos</strong>, participando desde decisões arquiteturais e definição de padrões
+  técnicos até implementação, observabilidade e operação de aplicações em produção.
+</p>
+
+<p align="center">
+  Meu foco está na construção de soluções que equilibrem
+  <strong>performance, escalabilidade, segurança, confiabilidade e manutenibilidade</strong>.
 </p>
 
 <br>
 
 <div align="center">
-  <h3>⚡ Principais Pilares</h3>
+  <h2>Áreas de Especialização</h2>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center"><strong>🏗️ Arquitetura</strong></td>
-    <td align="center"><strong>⚡ Performance</strong></td>
-    <td align="center"><strong>📨 Event-Driven</strong></td>
+    <td width="33%" align="center">
+      <strong>🏗️ Software Architecture</strong>
+    </td>
+    <td width="33%" align="center">
+      <strong>⚡ Performance & Scalability</strong>
+    </td>
+    <td width="33%" align="center">
+      <strong>📨 Event-Driven Systems</strong>
+    </td>
   </tr>
+
   <tr>
-    <td align="center">Microsserviços<br>Modularização<br>Sistemas Distribuídos</td>
-    <td align="center">Cache<br>Processamento Assíncrono<br>Otimização</td>
-    <td align="center">Mensageria<br>Retry<br>DLQ</td>
+    <td align="center">
+      Microsserviços<br>
+      Arquitetura Modular<br>
+      Sistemas Distribuídos
+    </td>
+    <td align="center">
+      Cache Distribuído<br>
+      Processamento Assíncrono<br>
+      Otimização de Performance
+    </td>
+    <td align="center">
+      Mensageria & Filas<br>
+      Retry & Idempotência<br>
+      Dead Letter Queues
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><strong>🔐 Segurança</strong></td>
-    <td align="center"><strong>📊 Observabilidade</strong></td>
-    <td align="center"><strong>🚀 DevOps</strong></td>
+    <td align="center">
+      <strong>🔐 Security</strong>
+    </td>
+    <td align="center">
+      <strong>📊 Observability</strong>
+    </td>
+    <td align="center">
+      <strong>🚀 DevOps & Infrastructure</strong>
+    </td>
   </tr>
+
   <tr>
-    <td align="center">Autenticação<br>Autorização<br>Proteção de APIs</td>
-    <td align="center">Logs<br>Métricas<br>Tracing</td>
-    <td align="center">Docker<br>CI/CD<br>Infraestrutura</td>
+    <td align="center">
+      Authentication<br>
+      Authorization<br>
+      API Security
+    </td>
+    <td align="center">
+      Structured Logging<br>
+      Metrics & Monitoring<br>
+      Distributed Tracing
+    </td>
+    <td align="center">
+      Docker<br>
+      CI/CD<br>
+      Infrastructure
+    </td>
   </tr>
 </table>
 
@@ -49,9 +105,11 @@
 <hr>
 
 <div align="center">
-  <h2>🛠️ Stack</h2>
+
+  <h2>Tech Stack</h2>
 
   <h3>Backend</h3>
+
   <p>
     <code>Node.js</code> •
     <code>TypeScript</code> •
@@ -62,6 +120,7 @@
   </p>
 
   <h3>Databases & Cache</h3>
+
   <p>
     <code>PostgreSQL</code> •
     <code>MySQL</code> •
@@ -69,7 +128,8 @@
     <code>Redis</code>
   </p>
 
-  <h3>Messaging & Distributed Systems</h3>
+  <h3>Messaging & Async Processing</h3>
+
   <p>
     <code>RabbitMQ</code> •
     <code>Kafka</code> •
@@ -77,6 +137,7 @@
   </p>
 
   <h3>Infrastructure & Observability</h3>
+
   <p>
     <code>Docker</code> •
     <code>Nginx</code> •
@@ -84,6 +145,7 @@
     <code>Grafana</code> •
     <code>OpenTelemetry</code>
   </p>
+
 </div>
 
 <br>
@@ -91,24 +153,23 @@
 <hr>
 
 <div align="center">
-  <h2>🛠️ Tecnologias e Ferramentas</h2>
+
+  <h2>Engineering Principles</h2>
 
   <p>
-    Tecnologias, ferramentas e plataformas que fazem parte do meu dia a dia no desenvolvimento
-    e manutenção de sistemas.
+    Clean Code • SOLID • API Design • Domain Modeling • Idempotency
   </p>
+
+  <p>
+    Event-Driven Architecture • Observability • Resilience • Scalability
+  </p>
+
+  <p>
+    <strong>Building reliable software designed to scale.</strong>
+  </p>
+
 </div>
 
 <br>
-
-<hr>
-
-<div align="center">
-  <h2>👁️ Visualizações de Perfil</h2>
-
-  <p>
-    A contagem de visitantes deste perfil começou em <strong>10 de dezembro de 2025</strong>.
-  </p>
-</div>
 
 <hr>
