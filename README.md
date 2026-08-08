@@ -1,13 +1,51 @@
-<div align="center">
-  <h1 align="center">Olá, eu sou o Betho Junior 👋</h1>
-  <h3 align="center">Sênior Backend Developer</h3>
+<div align="center">   <h1>Betho Junior</h1>   <h3>Senior Backend Developer • Tech Lead • Software Architecture</h3>
+
+  <p>
+    Construindo sistemas escaláveis, distribuídos e orientados a eventos.
+  </p>
 </div>
 
-<p align="center">
-Desenvolvedor Back-end Sênior e Tech Lead, especializado na construção de sistemas robustos, escaláveis e orientados a eventos.
+---
 
-Tenho experiência no desenvolvimento de APIs de alta performance, microsserviços, arquiteturas distribuídas e aplicações de missão crítica, sempre focando em qualidade, segurança, observabilidade e escalabilidade.
-</p>
+### 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Back-end Sênior e Tech Lead**, especializado no desenvolvimento de sistemas robustos, escaláveis e de alta disponibilidade.
+
+Minha experiência é focada na construção e evolução de **APIs de alta performance, microsserviços, arquiteturas distribuídas e sistemas orientados a eventos**, atuando desde decisões arquiteturais até implementação, observabilidade e operação em produção.
+
+Tenho como principais pilares:
+
+* 🏗️ **Arquitetura de Software** — microsserviços, modularização e sistemas distribuídos
+* ⚡ **Performance & Escalabilidade** — cache, processamento assíncrono e otimização
+* 📨 **Event-Driven Architecture** — mensageria, filas, eventos, retry e DLQ
+* 🔐 **Segurança** — autenticação, autorização e proteção de APIs
+* 📊 **Observabilidade** — logs estruturados, métricas, tracing e monitoramento
+* 🧪 **Qualidade** — código limpo, testes, boas práticas e manutenibilidade
+* 🚀 **DevOps** — Docker, CI/CD, infraestrutura e ambientes de produção
+
+### 🛠️ Stack
+
+**Backend**
+
+`Node.js` • `TypeScript` • `NestJS` • `PHP` • `Laravel` • `Go`
+
+**Databases & Cache**
+
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
+
+**Messaging & Distributed Systems**
+
+`RabbitMQ` • `Kafka` • `BullMQ`
+
+**Infrastructure & Observability**
+
+`Docker` • `Nginx` • `Prometheus` • `Grafana` • `OpenTelemetry`
+
+---
+
+<div align="center">
+  <strong>Backend Engineering • Distributed Systems • Event-Driven Architecture</strong>
+</div>
 
 <div align="center">
   
