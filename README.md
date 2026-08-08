@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Olá, eu sou o Betho Junior 👋</h1>
-  <h3 align="center">Full Stack Developer</h3>
+  <h3 align="center">Sênior Backend Developer</h3>
 </div>
 
 <p align="center">
